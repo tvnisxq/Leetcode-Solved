@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -20,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
