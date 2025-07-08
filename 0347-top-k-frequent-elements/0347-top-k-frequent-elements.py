@@ -36,3 +36,6 @@ class Solution:
                     return result
         # In case we need fewer than k elements(edge case).
         return result
+
+# Time: O(n) -> Linear scan to count, bucket fill, and collect result.
+# Space: O(n) -> Counter + bucket list hold at most n elements.
