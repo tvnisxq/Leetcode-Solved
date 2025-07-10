@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [2350-find-closest-number-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2350-find-closest-number-to-zero) |
 ## Union Find
 |  |
 | ------- |
