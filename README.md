@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
