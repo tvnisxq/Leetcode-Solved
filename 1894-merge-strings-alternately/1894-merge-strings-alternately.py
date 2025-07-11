@@ -6,31 +6,31 @@ class Solution:
             • Core Concept used can also be said as two pointers
         '''
 
-        # result = '' # Initialize an empty string for storing result
-        # Set up 2 pointers to track positions in word1 & word2.
-        # i = 0 
-        # j = 0
+        result = '' # Initialize an empty string for storing result
+        Set up 2 pointers to track positions in word1 & word2.
+        i = 0 
+        j = 0
 
         # The main loop runs until both pointer's Indices run out of bound.
-        # while i < len(word1) and j < len(word2):
-            # Adding to the result
-            # result += word1[i]
-            # result += word2[j]
+        while i < len(word1) and j < len(word2):
+            Adding to the result
+            result += word1[i]
+            result += word2[j]
             # Incrementing the pointers by 1.
-            # i += 1 
-            # j += 1
+            i += 1 
+            j += 1
 
         # Add remaining characters from word1.
-        # while i < len(word1):
-        #     result += word1[i]
-        #     i += 1
+        while i < len(word1):
+            result += word1[i]
+            i += 1
 
         # Add remaining charactes from word2.
-        # while j < len(word2):
-        #     result += word2[j]
-        #     j += 1
+        while j < len(word2):
+            result += word2[j]
+            j += 1
 
-        # return result
+        return result
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
@@ -65,31 +65,31 @@ class Solution:
         # Conversion of List result to String result.
         return ''.join(result)
 
-# class Solution:
-#     def mergeAlternately(self, word1: str, word2: str) -> str:
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
         '''
         Optimal Approach 2(Using Single loop):
         • Concise and less wordier.
         • Clever solution.
         • Use this after the optimal two pointers approach t optimize further(IF ASKED).
         '''
-        # result = []
+        result = []
         # calculate max length of both the strings.
         # This determines how many iterations our loop needs.
-        # max_len = max(len(word1), len(word2))
+        max_len = max(len(word1), len(word2))
 
         # Single loop that runs for max_len iterations
         # This replaces the need for multiple while loops.
-        # for i in range(max_len):
+        for i in range(max_len):
             # Check if current index i is within bounds of word1.
             # Prevents IndexError when word1 is shorter than word2.
-            # if i < len(word1):
-            #     result.append(word1[i]) # Add characters from word1 at index i.
+            if i < len(word1):
+                result.append(word1[i]) # Add characters from word1 at index i.
             
             # Check if current index i is within bounds of word2.
             # Prevents IndexError when word2 is shorter than word1.
-        #     if i < len(word2):
-        #         result.append(word2[i]) # Add characters from word2 at index i.
+            if i < len(word2):
+                result.append(word2[i]) # Add characters from word2 at index i.
                 
-        # return ''.join(result)
+        return ''.join(result)
 
