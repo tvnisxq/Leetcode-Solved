@@ -1,29 +1,29 @@
-# class Solution:
-#     def isValid(self, s:str) -> bool:
+class Solution:
+    def isValid(self, s:str) -> bool:
 
-#         '''
-#             Brute Force Solution:
-#             • Time: O(n²) 
-#                 - Each iteration scans entire string -> O(n).
-#                 - Maximum n/2 iterations needed -> O(n)
-#                 Total: O(n²)
+        '''
+            Brute Force Solution:
+            • Time: O(n²) 
+                - Each iteration scans entire string -> O(n).
+                - Maximum n/2 iterations needed -> O(n)
+                Total: O(n²)
 
-#             • Space: O(n) for string operations.
-#         '''
-#         # keep removing valid characters until there are no changes.
-#         while True:
-#             original_length = len(s)
+            • Space: O(n) for string operations.
+        '''
+        # keep removing valid characters until there are no changes.
+        while True:
+            original_length = len(s)
 
-#             # Remove valid pairs.
-#             s = s.replace('()', '')
-#             s = s.replace('{}', '')
-#             s = s.replace('[]', '')
+            # Remove valid pairs.
+            s = s.replace('()', '')
+            s = s.replace('{}', '')
+            s = s.replace('[]', '')
 
-#             # If no change is made: It's a valid parentheses.
-#             if len(s) == original_length:
-#                 break
+            # If no change is made: It's a valid parentheses.
+            if len(s) == original_length:
+                break
 
-#         return len(s) == 0
+        return len(s) == 0
 
 
 
