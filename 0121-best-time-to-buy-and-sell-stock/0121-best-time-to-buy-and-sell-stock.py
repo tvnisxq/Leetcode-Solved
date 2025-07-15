@@ -1,28 +1,30 @@
-# class Solution:
-#     def maxProfit(self, prices: List[int]) -> int:
-#         '''
-#             Brute Force Solution:
-#             • Time: O(n²) -> we are using nested for loops to find the max_profit
-#                             may not pass each and every test cases and timeouts in large inputs.
-#             • Space: O(1) -> only variables are used to solve this problem. 
-#                             and no other data structure is used. 
-#             • Start with this approach in a Live interview and then move to optimize it if asked.  
-#         '''
-#         max_profit = 0
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+         '''
+             Brute Force Solution:
+             • Time: O(n²) -> we are using nested for loops to find the max_profit
+                             may not pass each and every test cases and timeouts in large inputs.
+             • Space: O(1) -> only variables are used to solve this problem. 
+                             and no other data structure is used. 
+             • Start with this approach in a Live interview and then move to optimize it if asked.  
+         '''
+        max_profit = 0
         
-#         # Looping through the buying prices.
-#         for i in range(len(prices)):
-#             # Nested loop for iterating through selling prices.
-#             for j in range(i+1, len(prices)):
+        # Looping through the buying prices.
+        for i in range(len(prices)):
+            # Nested loop for iterating through selling prices.
+            for j in range(i+1, len(prices)):
 
-#                 # Profit = selling price - buying price.
-#                 profit = prices[j] - prices[i]
+               # Profit = selling price - buying price.
+                profit = prices[j] - prices[i]
 
-#                 # Get the maximum value from profit and max_profit
-#                 max_profit = max(profit, max_profit)
+                # Get the maximum value from profit and max_profit
+                max_profit = max(profit, max_profit)
 
-#         # Return max profit if present else return 0.
-#         return max_profit 
+        # Return max profit if present else return 0.
+        return max_profit 
+
+
 
 class Solution:
     def maxProfit(self, prices: []) -> int:
