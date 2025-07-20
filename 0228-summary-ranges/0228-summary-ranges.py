@@ -1,40 +1,57 @@
-# class Solution:
-#     def summaryRanges(self, nums: List[int]) -> List[str]:
-        
-#         # Empty List to store the result.
-#         result = []
-#         # Variable to keep track of the traversed List elements:
-#         i = 0
+class Solution:
+    def summaryRanges(self, nums: List[int]) -> List[str]:
+        '''
+                Approach 1: Two loops with While.
+                • Intuitive ans easy to follow.
+                • Slightly verbose due to nested loops and manual string concatenation.
+        '''
+        # Empty List to store the result.
+        result = []
+        # Variable to keep track of the traversed List elements:
+        i = 0
 
-#         # Looping through elements as long as i value is less than len(nums).
-#         while i < len(nums):
-#             start = nums[i]  # Assigning the very first element as the start.
+        # Looping through elements as long as i value is less than len(nums).
+        while i < len(nums):
+            start = nums[i]  # Assigning the very first element as the start.
 
-#             # Inner loop:
-#             '''
-#                 • 1st Condition: Ensures we're not checking any element beyond the bounds of nums.
-#                 • 2nd Condition: Checks if the next number we're looking at is contigous to the current.    
-#             '''
-#             while i < len(nums) - 1 and nums[i] + 1 == nums[i+1]:
-#                 i += 1  # Increment i by 1 if both values hold true.
+            # Inner loop:
+            '''
+                • 1st Condition: Ensures we're not checking any element beyond the bounds of nums.
+                • 2nd Condition: Checks if the next number we're looking at is contigous to the current.    
+            '''
+            while i < len(nums) - 1 and nums[i] + 1 == nums[i+1]:
+                i += 1  # Increment i by 1 if both values hold true.
 
-#             # If the number assigned to start is not equal to nums[i](i representing the last iterable index).
-#             # Then the numbers start & i are forming a range. 
-#             if start != nums[i]:
-#                 result.append(str(start) + '->' + str(nums[i])) # Appeding the range to result List.
+            # If the number assigned to start is not equal to nums[i](i representing the last iterable index).
+            # Then the numbers start & i are forming a range. 
+            if start != nums[i]:
+                result.append(str(start) + '->' + str(nums[i])) # Appeding the range to result List.
                 
-#             # However if they both are equal.
-#             # Then this number is not a range but a single number.
-#             else:
-#                 result.append(str(nums[i])) # Push this single number in the result List.
+            # However if they both are equal.
+            # Then this number is not a range but a single number.
+            else:
+                result.append(str(nums[i])) # Push this single number in the result List.
 
-#             i += 1 # Increment the value of i by 1 no matter what
+            i += 1 # Increment the value of i by 1 no matter what
         
-#         return result
+        return result
+
+'''
+Time: O(n) -> As you iterate through the array once with outer loop and the inner loop advances i for consecutive numbers.
+Space: O(k) -> Where k is the number of ranges stored in result.
+'''
+
+
 
 
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
+            '''
+                Approach 2: Single Pass
+                • Uses a ternary operator for concise string formatting.
+                • Combines range detection and appending in a single step.
+                • Handles the empty array case explicitly.
+            '''
 
         # Check if nums is an empty list.
         if not nums: 
@@ -61,3 +78,8 @@ class Solution:
             i += 1  # increment i value to check for next element
 
         return result
+
+'''
+Time: O(n) -> As we iterate through the array once.
+Space: O(k) -> Where k is the number of ranges. 
+'''
