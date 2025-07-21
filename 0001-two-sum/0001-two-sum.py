@@ -19,4 +19,9 @@ class Solution:
             numMap[num] = i
         
         # Safe net in case no pair is found.
-        return [] # But this line is never executed as the problem states that one solution is guaranteed. 
+        return [] # But this line is never executed as the problem states that one solution is guaranteed.
+
+'''
+    Time: O(n) -> Traversing the list only once & doing constant time opeartions(dictionary lookups & inserts).
+    Space: O(n) -> In the worst case, you might store all elements. 
+'''
