@@ -33,21 +33,21 @@ defaultdict creates an entry of the character c in the defaultdict:
         immediately increments it by 1 as now we have
         seen the same character that already exists.
 '''
-# from collections import defaultdict
-# class Solution:
-#     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-#         counter = defaultdict(int)
-#         for c in magazine:
-#             counter[c] += 1
+from collections import defaultdict
+class Solution:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        counter = defaultdict(int)
+        for c in magazine:
+            counter[c] += 1
 
-#         for c in ransomNote:
-#             if c not in counter:
-#                 return False
-#             elif counter[c] == 1:
-#                 del counter[c] 
-#             else:
-#                 counter[c] -= 1 
-#         return True
+        for c in ransomNote:
+            if c not in counter:
+                return False
+            elif counter[c] == 1:
+                del counter[c] 
+            else:
+                counter[c] -= 1 
+        return True
 
 
 
@@ -55,17 +55,17 @@ defaultdict creates an entry of the character c in the defaultdict:
 
 
 # Approach 3: using python's built-in counter module
-# from collections import Counter
-# class Solution:
-#     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-#         counter = Counter(magazine) # Creates a dict from magazine characters 
-#                                     # where keys are characters and values are the occurence 
-#                                     # frequencies of the characters.
-#         for c in ransomNote:
-#             if c not in counter:
-#                 return False
-#             elif counter[c] == 1:
-#                 del counter[c]
-#             else:
-#                 counter[c] -= 1
-#         return True
+from collections import Counter
+class Solution:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        counter = Counter(magazine) # Creates a dict from magazine characters 
+                                    # where keys are characters and values are the occurence 
+                                    # frequencies of the characters.
+        for c in ransomNote:
+            if c not in counter:
+                return False
+            elif counter[c] == 1:
+                del counter[c]
+            else:
+                counter[c] -= 1
+        return True
