@@ -1,27 +1,14 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # Initialize an empty dictionary to store numbers we seen so far with their 
-        # index. {number: index}
-        numMap = {}
-
-        # Looping through the list nums. i is the current index and num the current 
-        # number. Enumerate allows us to access both the index and the value at the 
-        # same time. 
-        for i, num in enumerate(nums):
-            # Calculates the number we need to find so that num + complement = target.
-            complement = target - num   # if target = 9 and num = 2, then complement = 7.
-
-            # Check if the complement exists in our numMap.
-            if complement in numMap:
-                return[numMap[complement], i] # numMap[complement] gives the index of the complement, while i is the current index.
-
-            # If no match was found, store the current number and it's index in the numMap for future reference. 
-            numMap[num] = i
-        
-        # Safe net in case no pair is found.
-        return [] # But this line is never executed as the problem states that one solution is guaranteed.
-
-'''
-    Time: O(n) -> Traversing the list only once & doing constant time opeartions(dictionary lookups & inserts).
-    Space: O(n) -> In the worst case, you might store all elements. 
-'''
+        '''
+            Brute Force Approach:
+                ▷ Time: O(n²) -> quadratic relationship between input size and run time.
+                                If input size doubles, run time quadruples. n is the length 
+                                of the nums array. 
+                ▷ Space: O(n) -> uses a constant amount of auxiliary space, the space complexity is O(1).
+                                It does not grow with input size n.
+        '''
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)): # comparison & addition taking place -> O(1)
+                if nums[i] + nums[j] == target:
+                    return [i,j]  
