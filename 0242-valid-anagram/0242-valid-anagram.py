@@ -1,36 +1,27 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+
         '''
-            Optimal Approach:
-                • Time: O(n+n+1) = O(2n + 1) = O(n)
-                • Space: Memory used by the algorithm is primarily for the map dictionary. 
+        Brute Force Approach:
         '''
-
-        # Initial Check: If strings are of diferent lengths they can't ever be anagrams.
-        if len(s) != len(t):   # constant time operation to check string lengths: O(1)
-            return False
+        # Check if the lengths of both strings are equal
+        if len(s) != len(t): # two strings can be anagrams only if they are of equal lengths.
+            return False     # return False if they are not.
         
-        # Creating a defaultdict to keep track of character frequnencies
-        map = {}    # constant time operation to create a dictionary: O(1)
+        '''
+            TIME:
+            The return type is given as bool.
+            So if the conditon that sorted strings are equal is satisfied, True is returned and False otherwise.
+            Python's sorted function uses Timsort -> a derivation of merge and insertion sort combined which has a worst 
+            case time complexity of O(N log N), where N=len(string). So total = O(N log N + M log M).
+            But since the strings are of equal lengths(initial check) -> O(N log N).
 
-        # looping and storing chars of s: O(n)
-        for c in s:
-            map[c] = map.get(c,0) + 1 # dictionary lookup and addition both of which are constant time opeartions on average: O(1) 
+            After sorting comparison of two sorted lists is taking place O(N). However this is 
+            dominated by sorting step SO OVERALL TIME COMPLEXITY DOESN'T CHANGE.
 
-        # looping through chars in t to check if they're anagrams
-        # This loop runs n times where n is the length of t: O(n)
-        for c in t:
-            if c not in map:  # checking for key existence is a constant time operation: O(1) 
-                return False
-            map[c] -= 1     # updates value in the dictionary: O(1)
-        
-        # To check if all the characters of s are used by t to create an anagram
-        # In the worst case a dictionary can contain 26 lowercase eng alphabets(constant & independent of input string length): O(1)
-        for val in map.values():
-            if val != 0:
-                return False
-        return True
-
-
-
-        
+            SPACE:
+            Sorted function in python returns a new list with sorted elements. Requires additional space to store 
+            these new lists. Timsort has a worst case space complexity of O(N). But here two strings are being sorted 
+            so it becomes O(N + M). Since the strings here are of same length -> O(N)
+        '''   
+        return sorted(s) == sorted(t) 
