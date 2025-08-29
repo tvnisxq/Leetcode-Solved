@@ -28,15 +28,5 @@ class Solution:
                 l += 1 # so we increment the left pointer
             else:
                 r -= 1
-
-            # if either height of left is more than height of 
-            # right -> we need to increase the height of r to move towards maximum area 
-            '''
-            OR
-            '''
-            # if the height of the left & right become equal, it actually doesn't
-            # matter whichever pointer is shifted. because at one point or another 
-            # the pointers will eventually meet and the loop will terminate.
-
-        # After the loop finishes return the maximum area found.
+       # After the loop finishes return the maximum area found.
         return max_area
