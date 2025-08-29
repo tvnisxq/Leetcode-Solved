@@ -1,13 +1,6 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        '''
-            Two Pointers(Optimal Solution):
-
-            • TIME: O(n) -> loop runs atmost n times where n is the number of
-            elements in the height list. 
-            • Space: O(1) -> The algorithm uses a constant number of variables, 
-            no additional data structures are used.
-        '''
+        
         # initializing the pointers
         l, r = 0, len(height) - 1 
         # creating a variable to store max_area
