@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Stack
 |  |
@@ -183,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0100-same-tree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
