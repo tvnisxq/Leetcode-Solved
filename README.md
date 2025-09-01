@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2350-find-closest-number-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2350-find-closest-number-to-zero) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
