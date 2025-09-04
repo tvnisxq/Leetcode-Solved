@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
