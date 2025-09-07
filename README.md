@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2350-find-closest-number-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2350-find-closest-number-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
