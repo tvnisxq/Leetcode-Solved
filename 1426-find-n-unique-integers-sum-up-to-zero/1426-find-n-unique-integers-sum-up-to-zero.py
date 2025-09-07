@@ -1,7 +1,7 @@
 class Solution:
     def sumZero(self, n: int) -> List[int]:
-        res = []
         half = n // 2
+        res = []
     
         for i in range(1, half + 1):
             res.append(i)
