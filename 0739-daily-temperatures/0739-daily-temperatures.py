@@ -1,5 +1,8 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+        """ Daily Temperatures"""
+        # Time: O(n)
+        # Space: O(n)
         n = len(temperatures)
         stack = []
         res = [0] * n
