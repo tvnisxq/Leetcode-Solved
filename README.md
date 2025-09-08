@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
@@ -279,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
