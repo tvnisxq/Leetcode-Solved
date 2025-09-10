@@ -6,7 +6,16 @@
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        """DFS Solution"""
+        """
+        TIME: O(n); just doing a bunch of constant time operations 
+        for every single node in the tree like calculating left & 
+        right heights, diameter and largest diameter of the Tree. 
         
+        SPACE: O(h); h is the number of nodes in the tree. We're 
+        keeping the height of the call stack open. DFS is goig down 
+        in the bottom and collecting it back upwards. 
+        """
         largest_d = [0]
         
         def height(root):
