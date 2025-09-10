@@ -5,6 +5,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Time: O(n)
+    # Space: O(n)
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         def symmetry(root1, root2):
             if not root1 and not root2:
