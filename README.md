@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0367-valid-perfect-square) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
 ## Greedy
 |  |
