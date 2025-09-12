@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
