@@ -1,9 +1,5 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-        """ Binary Search"""
-        # Time: O(log n)
-        # Space: O(1)
-        # Edge case: If x is 1 or 0
         if x < 2:
             return x
         
@@ -24,3 +20,5 @@ class Solution:
         
         # When loop finishes, right is the integer part of sqrt(x)
         return right
+
+        # Time: O(n), Space: O(1)
