@@ -5,19 +5,17 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        """
-        Time: O(M); where M is the size of the linked list.
-        Space: O(1); we're really just using a few variables/pointers.
-        """
-        dummy = ListNode()
-        dummy.next = head
-        behind = ahead = dummy
+        dummy = ListNode(0, head)
+        left, right = dummy, head 
 
-        for _ in range(n+1):
-            ahead = ahead.next
-        while ahead:
-            ahead = ahead.next
-            behind = behind.next
-        behind.next = behind.next.next
+        while n > 0 and right:
+            right = right.next
+            n -= 1
+
+        while right:
+            right = right.next
+            left = left.next
+        
+        left.next = left.next.next
         return dummy.next
-
+            
