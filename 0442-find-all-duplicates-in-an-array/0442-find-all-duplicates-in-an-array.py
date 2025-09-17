@@ -1,10 +1,8 @@
 from collections import defaultdict
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        # Empty array to store the result
         res = []
 
-        
         for n in nums:
             n = abs(n)
             if nums[n-1] < 0:
