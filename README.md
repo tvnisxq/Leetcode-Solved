@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
