@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
