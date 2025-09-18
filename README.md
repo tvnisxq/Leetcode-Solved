@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0046-permutations) |
 ## Tree
 |  |
 | ------- |
