@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0118-pascals-triangle) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0392-is-subsequence) |
