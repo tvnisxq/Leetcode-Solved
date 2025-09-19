@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
