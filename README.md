@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
 ## Brainteaser
 |  |
 | ------- |
