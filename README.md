@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 ## Graph
 |  |
 | ------- |
