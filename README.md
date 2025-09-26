@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0392-is-subsequence) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0367-valid-perfect-square) |
