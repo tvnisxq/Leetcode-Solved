@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
+| [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
+| [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
+| [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1642-water-bottles) |
 ## Number Theory
 |  |
