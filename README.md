@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
