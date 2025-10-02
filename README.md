@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3830-find-closest-person) |
 ## Stack
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3336-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |
