@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2350-find-closest-number-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2350-find-closest-number-to-zero) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
+| [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 ## Greedy
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
+| [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 ## Brainteaser
 |  |
 | ------- |
