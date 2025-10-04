@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0392-is-subsequence) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
