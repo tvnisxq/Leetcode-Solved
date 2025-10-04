@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
