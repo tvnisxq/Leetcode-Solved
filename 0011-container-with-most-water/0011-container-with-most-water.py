@@ -1,25 +1,26 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
+        # Initializing two pointers
+        l, r = 0, len(height) - 1
+        # To keep track of the maximum area that we can get
+        max_area = 0
 
-        # initializing the pointers
-        l, r = 0, len(height) - 1 
-        # creating a variable to store max_area
-        max_a = 0
-
-        # loop traverses until left & right pointers merge at a common point,
-        # and hence area can't be calculated using a single height
+        # This loop traverses until left and right pointers merge 
+        # at a common points and hence area can't be calculated using 
+        # single height
         while l < r:
+            width = r - l
+            curr_height = min(height[l], height[r]) # taking the minimum of the left & right heights
+            area = width * curr_height  # calculating area using length*width
+            max_area = max(max_area, area)  # opting max_area to whatever(max_area or area) the maximum comes to be
 
-            w = r - l 
-            h = min(height[l], height[r]) # taking the minimum of the heights at left & right
-            a = w * h # calculating area using (Length*Breadth)
-            max_a = max(max_a, a) # opting max_area to whatever(max_are or area) the maximum comes to be.
-
-            # if height of left is less than height of right,
-            # so we need to increase the height of l to move towards maximum area
+            # Now if the height[l] is less than height[r], we move 'l' pointer towards 
+            # the more heighted bars in order to get the maximum area
             if height[l] < height[r]:
-                l += 1 # so we increment the left pointer
+                l += 1      # So we increment the left pointer 
             else:
-                r -= 1
-       # After the loop finishes return the maximum area found.
-        return max_a
+                r -= 1      # and decrement the right pointer otherwise
+        
+        return max_area
+            
+            
