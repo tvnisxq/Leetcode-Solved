@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
+| [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2350-find-closest-number-to-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2350-find-closest-number-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
@@ -281,11 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0794-swim-in-rising-water) |
 | [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
