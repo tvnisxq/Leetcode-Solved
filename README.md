@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
