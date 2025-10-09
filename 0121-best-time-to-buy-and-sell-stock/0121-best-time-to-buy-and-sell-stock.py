@@ -1,17 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        """ Brute Force"""
-        # maxProfit = 0
-        # for i in range(len(prices)):
-        #     for j in range(i+1, len(prices)):
-        #         profit = prices[j] - prices[i]
-
-        #         if profit > 0:
-        #                 maxProfit = max(maxProfit, profit)
-        # return maxProfit
-
-        """ Optimal Approach """
-        min_price = float('inf')
+        min_price = prices[0]
         max_profit = 0
 
         for price in prices:
