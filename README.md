@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0303-range-sum-query-immutable) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |
