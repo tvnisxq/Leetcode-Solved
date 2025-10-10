@@ -1,29 +1,25 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        m = len(matrix) # store number of rows in m
-        n = len(matrix[0]) # store number of columns in n
-        t = m * n # total number of cells in the matrix
-        
-        # Declare two pointers
-        left = 0
-        right = t - 1
+        m = len(matrix)
+        n = len(matrix[0])
+        t = m * n 
+        l, r = 0, t - 1
 
-        while left <= right:
-            middle = (left + right) // 2
-            """
-            Calculating the 'i' & 'j' index(in terms of matrix)
-            """
-            i = middle // n 
-            j = middle % n
+        while l <= r:
+            mid = (l+r) // 2
+            i, j = mid // n, mid % n
             mid_num = matrix[i][j]
-            
-            if target == mid_num:
-                return True
 
-            elif target < mid_num:
-                right = middle - 1
-            
+            if mid_num == target:
+                return True 
+            elif mid_num < target:
+                l = mid + 1
             else:
-                left = middle + 1
+                 r = mid - 1
         
         return False
+
+
+            
+
+
