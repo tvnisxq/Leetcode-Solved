@@ -12,4 +12,4 @@ class Solution:
             key = tuple(count)
             anagramMap[key].append(s)
         
-        return list(anagramMap.values()) 
+        return list(anagramMap.values())
