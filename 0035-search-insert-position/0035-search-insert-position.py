@@ -1,23 +1,19 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        """ Basic Binary Search"""
         n = len(nums)
-        left = 0 
-        right = n - 1
+        l, r = 0, n-1
 
-        while left <= right:
-            middle = (left+right) // 2
-            
-            if nums[middle] < target:
-                left = middle + 1
-                
-            elif nums[middle] > target:
-                right = middle - 1
-            
+        while l <= r:
+            m = (l+r) // 2
+
+            if nums[m] < target:
+                l = m + 1
+            elif nums[m] > target:
+                r = m - 1
             else:
-                return middle
+                return m
         
-        if nums[middle] < target:
-            return middle + 1
+        if nums[m] < target:
+            return m + 1
         else:
-            return middle
+            return m
