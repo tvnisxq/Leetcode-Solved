@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Matrix
 |  |
 | ------- |
@@ -249,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1013-fibonacci-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Trie
 |  |
 | ------- |
@@ -299,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
