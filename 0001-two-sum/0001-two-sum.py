@@ -7,6 +7,7 @@ class Solution:
             if complement in numMap:
                 return [numMap[complement], i]
             numMap[num] = i
+        
 
 
 
