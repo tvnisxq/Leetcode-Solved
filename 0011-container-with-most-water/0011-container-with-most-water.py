@@ -1,9 +1,8 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        n = len(height)
-        l, r = 0, n - 1
-
+        l, r = 0, len(height) - 1
         max_area = 0
+
         while l < r:
             curr_height = min(height[l], height[r])
             width = r - l
