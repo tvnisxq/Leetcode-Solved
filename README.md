@@ -426,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
