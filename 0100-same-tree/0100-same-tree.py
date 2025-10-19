@@ -1,14 +1,13 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+
         def same(p, q):
-            # Both are null
             if not p and not q:
                 return True
             
-            # If one of either is null or values are different
             if not p or not q or p.val != q.val:
                 return False
-        
+            
             return same(p.left, q.left) and same(p.right, q.right)
         
-        return same(p, q) 
+        return same(p, q)
