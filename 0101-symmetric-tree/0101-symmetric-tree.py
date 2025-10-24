@@ -11,6 +11,6 @@ class Solution:
                 return False
             
             return symmetry(root1.left, root2.right) and \
-                   symmetry(root1.right, root2.left)
+                   symmetry(root1.right, root2.left) 
         
-        return symmetry(root, root) 
+        return symmetry(root, root)
