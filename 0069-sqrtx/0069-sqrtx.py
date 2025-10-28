@@ -2,7 +2,6 @@ class Solution:
     def mySqrt(self, x: int) -> int:
         if x < 2:
             return x
-        
         left, right = 1, x
 
         while left <= right:
@@ -11,14 +10,11 @@ class Solution:
 
             if sqr == x:
                 return middle
-
+            
             elif sqr > x:
                 right = middle - 1
             
             else:
                 left = middle + 1
         
-        # When loop finishes, right is the integer part of sqrt(x)
         return right
-
-        # Time: O(n), Space: O(1)
