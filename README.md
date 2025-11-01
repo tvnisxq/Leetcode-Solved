@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0234-palindrome-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
