@@ -1,10 +1,5 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        """
-        1. Only add open parenthesis if open < n
-        2. Only add a closing parenthesis if closed < open
-        3. Valid iff open == closed == n
-        """
         stack = []
         res = []
 
