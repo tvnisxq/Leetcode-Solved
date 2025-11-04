@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0482-license-key-formatting) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
 | [3312-number-of-changing-keys](https://github.com/tvnisxq/Leetcode-Solved/tree/master/3312-number-of-changing-keys) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 ## Dynamic Programming
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1612-avoid-flood-in-the-city](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
