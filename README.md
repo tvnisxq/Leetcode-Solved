@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0513-find-bottom-left-tree-value](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0794-swim-in-rising-water) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0513-find-bottom-left-tree-value](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0513-find-bottom-left-tree-value) |
 | [0794-swim-in-rising-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 ## Simulation
