@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0782-jewels-and-stones](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1249-snapshot-array) |
 | [1297-maximum-number-of-balloons](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1297-maximum-number-of-balloons) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0794-swim-in-rising-water) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0973-k-closest-points-to-origin) |
 | [0983-validate-stack-sequences](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1019-squares-of-a-sorted-array) |
