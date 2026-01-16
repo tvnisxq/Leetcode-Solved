@@ -5,17 +5,19 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        """ Iterative Solution(Two Pointers)"""
-        # Time: O(n)
-        # Space: O(1)
+        # Recursive Approach
 
-        # initializing the pointers
-        prev, curr = None, head     # prev is None & curr points to head
+        # Base Case
+        if not head or not head.next:
+            return head
+        
+        # Recursively reverse the rest of the list
+        new_head = self.reverseList(head.next)
 
-        # Looping through the list
-        while curr:
-            nxt = curr.next # For keeping the original links
-            curr.next = prev # Pointing the nodes to prev instead of next(reversal)
-            prev = curr # Moving the current pointer to current position
-            curr = nxt # Moving the traversal pointer one step forward in original LL.
-        return prev # Prev is returned as the head of the newly reversed list.
+        # Make the new node point back to the current node
+        head.next.next = head
+
+        # Since current node becomes the tail, make it point to None
+        head.next = None
+
+        return new_head
