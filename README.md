@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0513-find-bottom-left-tree-value) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0417-pacific-atlantic-water-flow) |
@@ -487,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tvnisxq/Leetcode-Solved/tree/master/1908-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
