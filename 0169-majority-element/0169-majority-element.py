@@ -1,20 +1,18 @@
-from collections import defaultdict
+# Boyer-Moore Algorithm
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        
-        # Using defaultdict to avoid missing character key frequencies.
-        freq_count = defaultdict(int)
+        ans, count  = -1, 0
 
-        # Iterating through the nums array to add num frequencies
         for num in nums:
-            freq_count[num] += 1
-            # print(freq_count) # To check whether freq_count is created successfully.
-
-        # Iteratimg through the freq_count to check for count.
-        for num, freq in freq_count.items():
-            if freq_count[num] > n/2:
-                return num
+            if count == 0:
+                ans = num
             
+            if ans == num:
+                count += 1
+            else:
+                count -= 1
+            
+        return ans
 
-                    
+# Time: O(n) Space: O(1)
