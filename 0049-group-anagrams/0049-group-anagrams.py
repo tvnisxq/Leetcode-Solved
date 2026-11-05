@@ -1,30 +1,23 @@
 from collections import defaultdict
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+class Solution(object):
+    def groupAnagrams(self, strs):
         """
-        we use defaultdict to avoid having to initialize an empty array
-        for the keys every single time. Provides an empty array or any 
-        other data structure assigned to a key by default
+        :type strs: List[str]
+        :rtype: List[List[str]]
         """
-        # Initialize and empty hashmap using list
-        anagramMap = defaultdict(list)
+        # Empty answer to store the result
+        answer = []
+        # Initialize an empty hashmap of lists
+        anagram_map = defaultdict(list)
 
-        # Result will be stored in an empty array
-        res = []
-
+        # Iterating over each string
         for s in strs:
-            # Sorted method returns back a list which is mutable data type 
-            # and mutable data types can't be keys
-            # sorts strings in alphabetically increasing order and 
-            # converting them to a tuple
-            sorted_s = tuple(sorted(s))
+            # Storing the strings and converting them to an immutable data type: tuple
+            sorted_s = tuple(sorted(s)) # {'a', 'e', 't'}
 
             # Adding a sorted version of that as a key in the map
-            anagramMap[sorted_s].append(s)
-
-        # For adding all the values in the map and appending them in the result. 
-        # Iterating over the values in the map
-        for value in anagramMap.values():
-            res.append(value)
-        return res
-
+            anagram_map[sorted_s].append(s) # {'a', 'e', 't': ['eat']}
+        
+        for values in anagram_map.values():
+            answer.append(values) # ['eat', 'tea', 'ate', 'tan', 'nat', 'bat']
+        return answer
