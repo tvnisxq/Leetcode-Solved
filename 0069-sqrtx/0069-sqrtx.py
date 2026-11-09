@@ -1,7 +1,14 @@
-class Solution:
-    def mySqrt(self, x: int) -> int:
+class Solution(object):
+    def mySqrt(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        
+        # Edge Case:
         if x < 2:
             return x
+        
         left, right = 1, x
 
         while left <= right:
