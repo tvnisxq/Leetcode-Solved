@@ -509,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tvnisxq/Leetcode-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
